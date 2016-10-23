@@ -9,9 +9,12 @@ A Collection of high quality tutorials, videos, books about Visual Studio Code
 ## Articles
 - [Introduction Visual Studio Code](https://johnpapa.net/visual-studio-code/) by John Papa
 
-## Paid Courses
+## 🎬 Paid Courses
 - [Visual Studio Code](https://www.pluralsight.com/courses/visual-studio-code) by John Papa
 - [Write Extension for Visual Studio Code](https://www.pluralsight.com/courses/visual-studio-code-write-first-extension) by Jeff Ammons
 
+## Social Media
+- [Official Blog](https://code.visualstudio.com/blogs)
+- [Official Twitter](https://twitter.com/code)
 
 
