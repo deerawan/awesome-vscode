@@ -8,6 +8,8 @@ A Collection of high quality tutorials, videos, books about Visual Studio Code
 
 ## Articles
 - [Introduction Visual Studio Code](https://johnpapa.net/visual-studio-code/) by John Papa
+- [Version Control in Visual Studio Code with Git](http://www.hongkiat.com/blog/version-control-git-vs-code/)
+- [Using a TypeScript Nightly Build Within Visual Studio Code](https://blog.mariusschulz.com/2016/06/17/using-a-typescript-nightly-build-within-visual-studio-code)
 
 ## 🎬 Paid Courses
 - [Visual Studio Code](https://www.pluralsight.com/courses/visual-studio-code) by John Papa
